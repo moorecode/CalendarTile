@@ -1,5 +1,5 @@
 # CalendarTile
-![alt text][preview]
+![alt text][preview.png]
 Simple Calendar tile that can display month, day of month and time of day. Intended use is for event reminders.
 
 #How to use
